@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "4.1.0",
   "adonis-version": "4.1.0",
-  "description": "A blog created using the Adonis framework",
+  "description": "A Blog created by Adonis framework",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
